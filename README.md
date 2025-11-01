@@ -23,7 +23,7 @@ It provides a robust alerting system with both local alarms (a multi-priority bu
 ## 📱 Blynk Dashboard
 
 The Blynk dashboard provides a clean interface for monitoring all sensor data in real-time and accessing the remote control toggles.
-
+![Blynk Dashboard](assets/blynk_dashboard.png)
 
 ## 🛠️ Hardware & Software
 
@@ -54,7 +54,7 @@ The Blynk dashboard provides a clean interface for monitoring all sensor data in
 ## 🔌 Wiring Diagram & Pinout
 
 All components are connected to the NodeMCU ESP8266 as shown in the diagram and table below.
-
+![Wiring Diagram](assets/wiring_diagram.png)
 
 ### Pin Configuration
 
@@ -101,7 +101,7 @@ Follow these steps to get your project up and running.
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/arfanPramudya/Climate-Light-IoT-Environmental-Monitor.git
     ```
 
 2.  **Install Libraries:** Open the `.ino` file in the Arduino IDE. Go to **Sketch \> Include Library \> Manage Libraries...** and install the libraries listed in the "Software & Services" section above.
